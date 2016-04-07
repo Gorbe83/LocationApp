@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LocationApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="google_app_id">186016923418</string>
+    <string name="Start_button">Iniciar servicio</string>
+    <string name="Stop_button">Detener servicio</string>
+</resources>
